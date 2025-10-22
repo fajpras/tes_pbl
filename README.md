@@ -1,4 +1,4 @@
-# 🚀 Project Based Learning (PBL) - [Aplikasi Penganjuan Dokumen Warga Digital]
+# 🚀 Project Based Learning - Aplikasi Penganjuan Dokumen Warga Digital
 
 ---
 ## 🧑‍💻 Teknologi yang Digunakan
