@@ -1,7 +1,4 @@
-# 🚀 Project Based Learning (PBL) - [Nama Proyek Kamu]
-
-> 🌟 *"Dari ide menjadi inovasi nyata."*  
-> Proyek ini dikembangkan sebagai bagian dari kegiatan **Project Based Learning (PBL)** untuk mengasah kemampuan analisis, kolaborasi, dan pengembangan teknologi berbasis solusi nyata.
+# 🚀 Project Based Learning (PBL) - [Aplikasi Penganjuan Dokumen Warga Digital]
 
 ---
 
@@ -38,11 +35,9 @@ Oleh karena itu, tim kami berinisiatif membuat **[nama proyek]** untuk memberika
 | Kategori | Teknologi |
 |-----------|------------|
 | Front-End | HTML5, CSS3, Bootstrap, JavaScript |
-| Back-End  | PHP / Node.js / Python (sesuaikan) |
+| Back-End  | PHP / Python (sesuaikan) |
 | Database  | MySQL / MongoDB |
 | Tools     | VS Code, GitHub, Figma |
-| Deployment | Netlify / Vercel / XAMPP (sesuaikan) |
+| Deployment |  XAMPP |
 
 ---
-
-## 📂 Struktur Folder
