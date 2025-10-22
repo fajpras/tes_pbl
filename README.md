@@ -1,8 +1,6 @@
 # 🚀 Project Based Learning (PBL) - [Aplikasi Penganjuan Dokumen Warga Digital]
 
 ---
--
-
 ## 🧑‍💻 Teknologi yang Digunakan
 
 | Kategori | Teknologi |
@@ -12,5 +10,5 @@
 | Database  | MySQL / MongoDB |
 | Tools     | VS Code, GitHub, Figma |
 | Deployment |  XAMPP |
-
+|-------------|------------|
 ---
